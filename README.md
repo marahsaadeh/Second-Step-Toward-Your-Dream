@@ -1,7 +1,4 @@
 # Second-Step-Toward-Your-Dream
-أكيد! إليك **ترجمة الـ README للإنجليزية** بمستوى بسيط وواضح (B1-B2):
-
----
 
 This project solves several programming questions using the **Dart** language. It shows how to use variables, logical conditions, type conversions, lists, sets, maps, and mathematical operations.
 
